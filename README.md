@@ -1,0 +1,1 @@
+Use with `generateTextShadow(radius, points, blur, colour, offsetX, offsetY, decimalPlaces);`
